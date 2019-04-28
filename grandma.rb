@@ -5,7 +5,7 @@ def speak_to_grandma(shout)
   end
   
   elsif "#{shout}" !== "#{shout}".upcase
-end
+    "HUH?! SPEAK UP, SONNY!"
 
 end
 
