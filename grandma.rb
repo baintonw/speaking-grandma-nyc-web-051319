@@ -4,9 +4,7 @@ def speak_to_grandma(shout)
     "I LOVE YOU TOO PUMPKIN!"
   end
   
-  elsif shout == "#{shout}".mixedcase
-    "HUH?! SPEAK UP, SONNY!"
-  end
+else shout ==
   
 end
 
