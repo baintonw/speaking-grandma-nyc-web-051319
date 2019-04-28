@@ -4,7 +4,7 @@ def speak_to_grandma(shout)
     "I LOVE YOU TOO PUMPKIN!"
   end
   
-  elsif ""
+  elsif "#{shout}" == "#{shout}".upcase
   
 end
 
