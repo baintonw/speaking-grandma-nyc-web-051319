@@ -1,3 +1,3 @@
-def speak_to_grandma(shout == "HUH?! SPEAK UP, SONNY!")
+def speak_to_grandma(shout)
 end
 
